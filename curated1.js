@@ -32,6 +32,27 @@ daftarCurated1 = [
 'axperience.ch',
 'en.utrace.me',
 'hartmannsdorf.info',
+["http://forums.equipped.org/ubbthreads.php?ubb=showflat&Number="+Math.ceil(Math.random()*301698),"forums.equipped.org"],
+["https://archive.schoenberg.at/resources/pages/home.php",'Arnold Schönberg Center Image Archive'],
+'kalingatv.com',
+'goonsgear.com',
+'educationdunia.com',
+'mondoreality.com',
+'www.regione.fvg.it',
+'kamservice.ir',
+'surfhatteras.com',
+'www.correct-pack.com',
+'gocxanh.com.vn',
+'splendorgolf.com',
+'intl.petsafe.net',
+'karatay-sanat-haberleri.com.tr',
+'karibik-urlaub-reisen.com',
+'birchbarandco.com',
+'juanarmentia.com',
+'sesaotomotiv.com',
+'ford-samara.ru',
+["https://xn--f9jh9iqa3556cjezb.com/"+Math.ceil(Math.random()*1651),"xn--f9jh9iqa3556cjezb.com"],
+
 ];
 
 function getRandomDate(start, end) {
